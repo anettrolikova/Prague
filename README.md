@@ -1,6 +1,5 @@
 # Prague
-All things tech communities & local resources for Prague 
-
+All things tech communities & local resources in Prague 
 
 # AI
 - [Prg.ai](https://prg.ai/) all things AI in Prague
@@ -9,5 +8,7 @@ All things tech communities & local resources for Prague
 - [PragueFi](https://praguefi.com/) Prague Finance Institute = community, events, corporate, knowledge
 
 
-# Events: 
+# Events 
+- https://luma.com/prague 
 - https://fintechweekcee.com/ = Fintech week in May
+- https://ethprague.com/ = crypto conf in May 
