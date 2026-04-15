@@ -10,5 +10,8 @@ All things tech communities & local resources in Prague
 
 # Events 
 - https://luma.com/prague 
+- https://luma.com/truesdays
 - https://fintechweekcee.com/ = Fintech week in May
 - https://ethprague.com/ = crypto conf in May 
+
+# Startup communities
